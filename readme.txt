@@ -62,7 +62,7 @@ This snippet should be inserted into your types.xml (so the Gingerbread man spaw
     </type>
 	
 	
-This code snippet should be inserted into your events.xml file (to have the Gingerbreadman spawn with regular zombies):
+This code snippet should replace the "InfectedVillage" event in your into your events.xml file (to have the Gingerbreadman spawn with regular zombies):
 	
 	  <event name="InfectedVillage">
         <nominal>50</nominal>
